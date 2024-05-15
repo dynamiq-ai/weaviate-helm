@@ -1,7 +1,7 @@
-weaviate/charts
-weaviate/weaviate-*.tgz
-weaviate/weaviate.tgz
-weaviate/out.yml
+charts/weaviate/charts
+charts/weaviate/weaviate-*.tgz
+charts/weaviate/weaviate.tgz
+charts/weaviate/out.yml
 tmp/*
 
 chart.lock
